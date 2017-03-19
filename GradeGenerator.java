@@ -11,8 +11,6 @@ public class GradeGenerator {
     * Takes user name, activity average, quiz average, project 
 	 * average, and exam scores via standard input and 
 	 * calculates the final grade for COMP 1210.
-    *
-    * @param args Command line arguments (not used).
     */
    public static void main(String[] args) {
       double actvAvg, quizAvg, projAvg, exam1Score, 
